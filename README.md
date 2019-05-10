@@ -15,7 +15,8 @@ vagrant ssh
 nomad
 ```
 -  Starting the Agent in development mode
-```sudo nomad agent -dev
+```
+sudo nomad agent -dev
 ```
 - Open a second console to the virtual machine
 ```
