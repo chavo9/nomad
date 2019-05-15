@@ -1,4 +1,4 @@
-# nomad getting started
+# nomad getting started.
 
 ## How to use
 
